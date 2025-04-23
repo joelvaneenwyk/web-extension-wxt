@@ -464,8 +464,8 @@ importers:
         version: 1.2.15
     devDependencies:
       '@types/chrome':
-        specifier: 0.0.315
-        version: 0.0.315
+        specifier: 0.0.316
+        version: 0.0.316
       fs-extra:
         specifier: 'catalog:'
         version: 11.2.0
@@ -2256,8 +2256,8 @@ packages:
   '@types/chrome@0.0.280':
     resolution: {integrity: sha512-AotSmZrL9bcZDDmSI1D9dE7PGbhOur5L0cKxXd7IqbVizQWCY4gcvupPUVsQ4FfDj3V2tt/iOpomT9EY0s+w1g==}
 
-  '@types/chrome@0.0.315':
-    resolution: {integrity: sha512-Oy1dYWkr6BCmgwBtOngLByCHstQ3whltZg7/7lubgIZEYvKobDneqplgc6LKERNRBwckFviV4UU5AZZNUFrJ4A==}
+  '@types/chrome@0.0.316':
+    resolution: {integrity: sha512-zoXIly8A41t8U5oC/14hgwjJ3k6kOE6ODJcCSGYda9AFOSloySO6OSO+RHayndb4BaJWg9s5FrXhYkemgsSEkA==}
 
   '@types/conventional-commits-parser@5.0.1':
     resolution: {integrity: sha512-7uz5EHdzz2TqoMfV7ee61Egf5y6NkcO4FB/1iCCQnbeiI1F3xzv3vK5dBCXUCLQgGYS+mUeigK1iKQzvED+QnQ==}
@@ -6599,7 +6599,7 @@ snapshots:
       '@types/filesystem': 0.0.36
       '@types/har-format': 1.2.15
 
-  '@types/chrome@0.0.315':
+  '@types/chrome@0.0.316':
     dependencies:
       '@types/filesystem': 0.0.36
       '@types/har-format': 1.2.15
